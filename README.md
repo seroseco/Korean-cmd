@@ -34,7 +34,7 @@
 ## 📚 전체 명령어 목록
 전체 입력 가능한 명령어는 아래 파일에서 확인하세요.
 
-- [COMMANDS.md]([https://github.com/seroseco/Korean-cmd/blob/main/COMMANDS.md)
+- [COMMANDS.md](https://github.com/seroseco/Korean-cmd/blob/main/COMMANDS.md)
 
 ## ℹ️ 참고
 - 외부 프로그램 명령어는 해당 프로그램이 설치되어 있고 PATH에 등록되어 있어야 실행됩니다.
