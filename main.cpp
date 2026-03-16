@@ -670,7 +670,7 @@ void PrintHelp() {
         wcout << left << setw(14) << cmd << L" " << desc << L"\n";
     }
     wcout << L"\n도구에 대한 자세한 내용은 온라인 도움말의 명령줄 참조를 "
-             L"참조하십시오. (https://github.com/seroseco/Korean-cmd/COMMANDS.md)\n";
+             L"참조하십시오. (https://github.com/seroseco/Korean-cmd/blob/main/COMMANDS.md)\n";
 }
 
 DWORD RunCmd(const wstring& cmd_name, const vector<wstring>& args) {
