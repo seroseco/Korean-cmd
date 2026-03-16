@@ -1,7 +1,7 @@
 # KCP 명령 목록
 
 ## 셸 전환
-- `시엠디` = `__win_cmd__`: Windows CMD 셸을 엽니다.
+- `시엠디` = `cmd`: Windows CMD 셸을 엽니다.
 - `파워셸` = `powershell`: PowerShell 셸을 실행합니다.
 
 ## 시스템·콘솔·배치
